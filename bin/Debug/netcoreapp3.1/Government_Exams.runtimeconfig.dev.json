@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\devya\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\devya\\.nuget\\packages"
+    ]
+  }
+}
